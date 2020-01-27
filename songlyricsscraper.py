@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import os
 import re
 
-apitoken = 'x4nP9xaAzYS96VZ3m2l2bSdI5k0vEdki2e1MZVUvmndIdRLEjquqJbXnaQjco352'
+apitoken = ''
 
 
 # Get artist object from Genius API
